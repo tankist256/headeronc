@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.embeddedhtml": "html",
+        "bitset": "c",
+        "valarray": "cpp",
+        "format": "c",
+        "ranges": "c",
+        "main.h": "c",
+        "a2i.h": "c"
+    }
+}

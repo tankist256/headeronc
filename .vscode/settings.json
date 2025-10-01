@@ -7,6 +7,11 @@
         "format": "c",
         "ranges": "c",
         "main.h": "c",
-        "a2i.h": "c"
+        "a2i.h": "c",
+        "ascii2int.h": "c",
+        "*.inc": "c",
+        "compare": "c",
+        "limits": "c",
+        "ratio": "c"
     }
 }
